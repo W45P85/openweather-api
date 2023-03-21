@@ -8,6 +8,7 @@ To use the API, you must have an account at https://openweathermap.org/.
 ![grafik](https://user-images.githubusercontent.com/87259727/226558877-d7ddbe4e-1215-42a9-be5d-7fbc471b8eb2.png)
 
 This free version is perfectly sufficient for this:
+
 ![grafik](https://user-images.githubusercontent.com/87259727/226559194-d050f241-c13b-49ba-80e9-5c1664f150b3.png)
 
 
